@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 new file
+=======
+google
+this change is from github editior
+>>>>>>> 5aea6465ba3b7a7f25687a12287ea0f9775d617d
